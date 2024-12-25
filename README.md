@@ -1,4 +1,4 @@
-<h1, align = 'Center'>📚 Panduan Belajar Python Dasar 🐍</h1>
+<h1 align = 'Center'>📚 Panduan Belajar Python Dasar 🐍</h1>
 
 ----
 
