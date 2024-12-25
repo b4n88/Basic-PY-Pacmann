@@ -1,4 +1,7 @@
 📚 Panduan Belajar Python Dasar 🐍
+
+----
+
 Selamat datang di repositori Belajar Python Dasar! Repositori ini dibuat sebagai panduan lengkap bagi Anda yang ingin memahami dasar-dasar bahasa pemrograman Python dengan mudah dan terstruktur.
 
 🎯 Tujuan Repositori Ini
